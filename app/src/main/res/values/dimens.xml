@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="padding_extra_small">2dp</dimen>
+    <dimen name="car_detail_text_size">45sp</dimen>
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="list_image_size">350dp</dimen> <!-- Ukuran gambar untuk daftar -->
+    <dimen name="paddinglist_large">20dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="list_text_size">30sp</dimen> <!-- Ukuran teks untuk daftar -->
+    <dimen name="title_text_size">40sp</dimen> <!-- Ukuran teks judul -->
+    <dimen name="small_text">25sp</dimen>
+    <dimen name="extra_small_text">20sp</dimen>
+    <dimen name="padding_medium">10dp</dimen>
+    <dimen name="image_size_detail">420dp</dimen>
+
+</resources>
